@@ -1,0 +1,22 @@
+[
+    {
+        "img": "01-Books.png",
+        "name": "Villa Copenhagen",
+        "price": "$799.00"
+    },
+    {
+        "img": "01-Home.png",
+        "name": "Bang & Olufson Wireless Headphobne",
+        "price": "$147.00"
+    },
+    {
+        "img": "02-Lifestyle.png",
+        "name": "Pokets Creative Spaces",
+        "price": "$25.00"
+    },
+    {
+        "img": "29-Lifestyle_b-o.png",
+        "name": "Acrobatics Hajo Backpack",
+        "price": "$79.00"
+    }
+]
